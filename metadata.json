@@ -1,0 +1,11 @@
+{
+  "name": "WeatherGPT India",
+  "description": "Hyperlocal live weather, real-time risk alerts, monsoon onset & break estimation, and agricultural decision intelligence for India.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
